@@ -18,7 +18,7 @@
   <tr>
     <td width="75%">
       <h3>教育情况</h3><br/>
-      <HR style="border:3 double #987cb9" width="100%"color=#987cb9 SIZE=3>
+      <HR align=center width=300 color=#987cb9 SIZE=1>
       <ul>
         <li>2017.09-2020.06     石家庄铁道大学     信息科学与技术学院          软件工程        学士 </li>
         <li>专业主修课程：大学英语、高等数学、数据结构、计算机网络技术、c++、java等。</li>
