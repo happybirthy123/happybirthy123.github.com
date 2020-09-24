@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0";style="width:100%; max-width:100%;margin-bottom:20px>
   <tr>
     <td width="75%">
       <h1>个人信息</h1>
@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="0";style="width:100%; max-width:100%;margin-bottom:20px>
   <tr>
     <td width="100%">
       <h3>专业技能</h3>
