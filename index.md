@@ -8,7 +8,7 @@
       <p><b>地址：河北石家庄</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengzhuangzhao.jpg" width="100%">    
+      <img src="./zhengzhuangzhao.jpg" width="100%">    
     </td>
   </tr>
 </table>
