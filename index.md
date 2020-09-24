@@ -1,7 +1,9 @@
-<table border="0";style="width:100%; max-width:100%;margin-bottom:20px>
+###欢迎来到happybirthy123的个人主页
+<a href="">博客：https://www.cnblogs.com/1502762920-com/</a>
+###个人信息
+<table border="0">
   <tr>
     <td width="75%">
-      <h1>个人信息</h1>
       <p><b>姓名：陈阳阳</b></p>
       <p><b>学校：石家庄铁道大学</b></p>
       <p><b>邮箱：1502762920@qq.com</b></p>
@@ -30,7 +32,7 @@
   </tr>
 </table>
 
-<table border="0";style="width:100%; max-width:100%;margin-bottom:20px>
+<table border="0">
   <tr>
     <td width="100%">
       <h3>专业技能</h3>
@@ -73,12 +75,12 @@
   </tr>
   <tr>
     <td width="100%">
-      <ol>
+      <ul>
         <li>国家励志奖学金</li>
         <li>石家庄铁道大学信息科学与技术学院奖学金</li>
         <li>学院三好学生</li>
         <li>软件著作权</li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
@@ -99,7 +101,24 @@
     </td>
   </tr>
 </table>
-### 专业技能
+### 学习情况
+<table border="0">
+  <tr>
+    <td width="100%">
+      <p>
+        <li>具有较强的自学能力，工作效率高，适应高强度的工作节奏，思维活跃</li>
+        <li>注重团队协作，有较好的组织沟通能力，勇于担当，认真负责</li>
+        <li>乐观积极，处事沉稳，细致耐心，自然大方。</li>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 --知识图谱
 --开发mis系统
 --数据挖掘
