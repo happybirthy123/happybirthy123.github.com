@@ -32,47 +32,47 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h3>专业技能</h3>
     </td>
   </tr>
   <tr>
-    <td width="75%">
-      <ol>
+    <td width="100%">
+      <ul>
         <li>硬件：单片机</li>
         <li>编程：java、c、c++、php等</li>
         <li>其他：Altium  Designer、AutoCAD</li>
         <li>软件：eclipse、Idea、vs</li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h3>科研经历</h3>
     </td>
   </tr>
   <tr>
-    <td width="75%">
-      <ol>
+    <td width="100%">
+      <ul>
         <li>参加中国软件杯：基于网络拓扑及告警的故障根因定位系统实现计算法研究</li>
         <li>独立开发河北科技创新平台网站</li>
         <li>在校设计编写mis系统</li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h3>获奖情况</h3>
     </td>
   </tr>
   <tr>
-    <td width="75%">
+    <td width="100%">
       <ol>
         <li>国家励志奖学金</li>
         <li>石家庄铁道大学信息科学与技术学院奖学金</li>
@@ -85,12 +85,12 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h3>自我评价</h3>
     </td>
   </tr>
   <tr>
-    <td width="75%">
+    <td width="100%">
       <ul>
         <li>具有较强的自学能力，工作效率高，适应高强度的工作节奏，思维活跃</li>
         <li>注重团队协作，有较好的组织沟通能力，勇于担当，认真负责</li>
