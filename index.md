@@ -1,8 +1,28 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：陈阳阳
+#### 学历：本科毕业
+#### 学校：石家庄铁道大学
+#### 专业：软件工程
+#### 邮箱：1502762920@qq.com
 
-You can use the [editor on GitHub](https://github.com/happybirthy123/happybirthy123.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 最新消息
+1.本人即将本科毕业面临找工作问题
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 专业技能
+--知识图谱
+--开发mis系统
+--数据挖掘
+--自然语言处理
+
+
+### 荣誉奖励
+-1
+-2
+-3...
+
+###研究经历
+
+
 
 ### Markdown
 
