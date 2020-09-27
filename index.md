@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3>专业技能</h3>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3>科研经历</h3>
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3>获奖情况</h3>
@@ -85,7 +85,7 @@
   </tr>
 </table>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <h3>自我评价</h3>
@@ -102,7 +102,7 @@
   </tr>
 </table>
 ### 学习情况
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="100%">
       <p>
