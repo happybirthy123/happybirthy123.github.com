@@ -16,7 +16,7 @@
 </table>
 
 ### 个人简历
-<table border="0">
+<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
   <tr>
     <td width="75%">
       <h3>教育情况</h3>
