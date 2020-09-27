@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<table border="0" width="100%">
+<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3>专业技能</h3>
