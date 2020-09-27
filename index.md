@@ -1,7 +1,7 @@
 ### 欢迎来到happybirthy123的个人主页
 <a href="https://www.cnblogs.com/1502762920-com/">博客：https://www.cnblogs.com/1502762920-com/</a>
 ### 个人信息
-<table border="0">
+<table border="1">
   <tr>
     <td width="75%">
       <p><b>姓名：陈阳阳</b></p>
@@ -16,7 +16,7 @@
 </table>
 
 ### 个人简历
-<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
+<table width="95%" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
   <tr>
     <td width="75%">
       <h3>教育情况</h3>
@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
+<table width="95%" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3>专业技能</h3>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
+<table width="95%" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3>科研经历</h3>
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
+<table width="95%" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3>获奖情况</h3>
@@ -85,7 +85,7 @@
   </tr>
 </table>
 
-<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
+<table width="95%" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
   <tr>
     <td width="100%">
       <h3>自我评价</h3>
@@ -102,7 +102,7 @@
   </tr>
 </table>
 ### 学习情况
-<table width="95%" border="1" cellpadding="2" cellspacing="1" style="table-layout:fixed;">
+<table width="95%" border="1" cellpadding="0" cellspacing="0" style="table-layout:fixed;">
   <tr>
     <td width="100%">
       <p>
